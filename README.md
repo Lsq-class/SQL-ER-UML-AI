@@ -1,4 +1,4 @@
-# AI TO ER-UML-Flowchart
+# AI TO ER-UML-Flowchart（好用的er图绘制工具）
 
 ai生成er图、系统功能图、流程图、UML类图、三线图，sql直转er图,项目转uml类图，生成的图支持导出drawio与visio文件进行二次加工
 
