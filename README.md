@@ -2,7 +2,7 @@
 
 ai生成er图、系统功能图、流程图、UML类图、三线图，sql直转er图,项目转uml类图，生成的图支持导出drawio与visio文件进行二次加工
 
-ER图快速生成 好的画图平台可以给我们带来方便，今天我来推荐一个在线ai生成ER图平台-[https://download.moshuo.top/sqltool/](https://download.moshuo.top/sqltool/),下面是使用它的功能和使用步骤与同步的截图： 
+ER图快速生成 好的画图平台可以给我们带来方便，今天我来推荐一个在线ai生成ER图平台-[https://download.moshuo.top/sqltool/](https://www.moshuo.top/sqltool/),下面是使用它的功能和使用步骤与同步的截图： 
 
 1. sql转er图
 
